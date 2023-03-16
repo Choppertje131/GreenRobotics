@@ -58,10 +58,10 @@ _Algemene configuratie van GreenRobotics_
 
 | Update Nr. | Persoon | Datum | Opmerking |
 | ----------- | ----------- | ----------- | ----------- |
-| 1.1 | Sebastiaan | 23-11-2022 | Updated the header of the site with all correct redirections to pages |
-| 1.2 | Sebastiaan | 23-11-2022 | Setup to create all user administration pages and updated git and readme for easy documentation |
-| 2.1 | Sebastiaan | 25-11-2022 | Created backend system for registrating empty user accounts |
-| 2.2 | Sebastiaan | 25-11-2022 | Completed all the backend and frontend of the authenticating system (login and register), now starting to work on the user profile and edditable settings |
-| 2.3 | Sebastiaan | 25-11-2022 | Updated some error from auth system and started working on the permissions system for administrating the user system and user permissions |
-| 3.1 | Sebastiaan | 28-11-2022 | Fixed some bugs in my spare time |
-| 4.1 | Sebastiaan | 02-12-2022 | Auth system updates for rights and guest users, also started at the frontend of the user info and auth setup pages |
+| 1.1 | Twan van Zuijdam | 23-11-2022 | Updated the header of the site with all correct redirections to pages |
+| 1.2 | Twan van Zuijdam | 23-11-2022 | Setup to create all user administration pages and updated git and readme for easy documentation |
+| 2.1 | Twan van Zuijdam | 25-11-2022 | Created backend system for registrating empty user accounts |
+| 2.2 | Twan van Zuijdam | 25-11-2022 | Completed all the backend and frontend of the authenticating system (login and register), now starting to work on the user profile and edditable settings |
+| 2.3 | Twan van Zuijdam | 25-11-2022 | Updated some error from auth system and started working on the permissions system for administrating the user system and user permissions |
+| 3.1 | Twan van Zuijdam | 28-11-2022 | Fixed some bugs in my spare time |
+| 4.1 | Twan van Zuijdam | 02-12-2022 | Auth system updates for rights and guest users, also started at the frontend of the user info and auth setup pages |
